@@ -8,7 +8,7 @@
       ],
       "tensorPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D.tsv_tensor.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D.tsv_metadata.tsv",
-      "bookmarksPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/state.txt"
+      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/English/state.txt"
     }
   ]
 }
