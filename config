@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My 300D Word2Vec Tensors",
+      "tensorName": "My 300D Word2Vec Tensor",
       "tensorShape": [
         1000,
         50
