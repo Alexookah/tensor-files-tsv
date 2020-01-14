@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "My 300D Word2Vec Tensors",
       "tensorShape": [
         1000,
         50
       ],
-      "tensorPath": "https://gist.githubusercontent.com/Alexookah/5e9b48bd03e3a5a516bc115b9ec18c2e/raw/93776b1814b52f514a2c4d03d02bae49dfe5ca02/my_model_prefix_tensor.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/Alexookah/5e9b48bd03e3a5a516bc115b9ec18c2e/raw/5bbe488ea8d09e34911cd220988388d5cb5a316c/custom_non_300D.tsv_metadata.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/custom_non_300D.tsv_tensor.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/custom_non_300D.tsv_metadata.tsv"
     }
   ]
 }
