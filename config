@@ -11,6 +11,16 @@
       "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/English/state.txt"
     },
     {
+      "tensorName": "Hotels Word2Vec English Skip-Gram",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D_SKIPGRAM.tsv_tensor.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D_SKIPGRAM.tsv_metadata.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/English/state.txt"
+    },
+    {
       "tensorName": "Hotels Word2Vec Greek CBOW",
       "tensorShape": [
         1000,
