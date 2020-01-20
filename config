@@ -8,7 +8,7 @@
       ],
       "tensorPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D_CBOW.tsv_tensor.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D_CBOW.tsv_metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/English/state.txt"
+      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/English/state_cbow.txt"
     },
     {
       "tensorName": "Hotels Word2Vec English Skip-Gram",
@@ -18,7 +18,7 @@
       ],
       "tensorPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D_SKIPGRAM.tsv_tensor.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/English/custom_non_300D_SKIPGRAM.tsv_metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/English/state.txt"
+      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/English/state_skipgram.txt"
     },
     {
       "tensorName": "Hotels Word2Vec Greek CBOW",
@@ -28,7 +28,7 @@
       ],
       "tensorPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/Greek/custom_non_300D_CBOW.tsv_tensor.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/Greek/custom_non_300D_CBOW.tsv_metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/Greek/state.txt"
+      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/Greek/state_cbow.txt"
     },
     {
       "tensorName": "Hotels Word2Vec Greek Skip-Gram",
@@ -38,7 +38,7 @@
       ],
       "tensorPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/Greek/custom_non_300D_SKIPGRAM.tsv_tensor.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/Alexookah/tensor-files-tsv/master/Greek/custom_non_300D_SKIPGRAM.tsv_metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/Greek/state.txt"
+      "bookmarksPath": "https://raw.githubusercontent.com/Alexookah/tensor-files-tsv/master/Greek/state_skipgram.txt"
     }
   ]
 }
